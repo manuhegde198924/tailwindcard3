@@ -19,9 +19,11 @@ To add the content section to your landing page, follow the steps mentioned belo
     Add buttons: To add the buttons, simply use the <button></button> tag and add the desired text and properties such as background colour, text colour, hover text, hover background, margin and so on. 
     Adding a Picture: Eventually, You can add an image to the content section of the landing page with the help of the ‘Imgsrc’ attribute and flexbox. Moreover, to align the image properly, you can use the item-centre property of the flexbox.
     Add Padding: Finally, you can add padding to each container with the help of the hit and trial method.
-    hosted nlink of my project:https://manuhegde198924.github.io/tailwindcard3/
+    hosted nlink of my project:
+    https://manuhegde198924.github.io/tailwindcard3/
 
-    for complete steps of my tailwind card refer:https://github.com/manuhegde198924/tailwindcard3/issues/1
+    for complete steps of my tailwind card refer:
+    https://github.com/manuhegde198924/tailwindcard3/issues/1
     
     
 
